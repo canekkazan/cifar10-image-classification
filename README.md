@@ -16,4 +16,4 @@ Data augmentation is not applied. In case of increment of the number of epochs,
 the accuracy might increase up to 0.85, and the loss might decrease significantly.
 
 
-mce
+                                                                                                            mce
