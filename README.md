@@ -14,3 +14,6 @@ And the model's loss: 0.7890 and the model's accuracy: 0.7439 on the test data.
 
 Data augmentation is not applied. In case of increment of the number of epochs,
 the accuracy might increase up to 0.85, and the loss might decrease significantly.
+
+
+mce
